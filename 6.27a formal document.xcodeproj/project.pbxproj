@@ -88,6 +88,9 @@
 		121DFA0C20E340AD00423A66 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "鲁祥";
 				TargetAttributes = {
